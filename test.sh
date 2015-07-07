@@ -1,0 +1,1 @@
+python RRT_Solver.py -smooth=False -n=100 -m=2000
